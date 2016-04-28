@@ -36,5 +36,7 @@ git clone https://github.com/peterhurford/vimflow
 
 ## Other recommendations
 
+* Make `,` your `<Leader>` -- Add `let mapleader=","` to your `~/.vimrc`.
 * The [bufexplorer](https://github.com/corntrace/bufexplorer) plugin is like vimflow for buffers.
+* [Send.vim](https://github.com/peterhurford/send.vim) lets you make git commits from within vim.
 * [Easymotion](https://github.com/easymotion/vim-easymotion) makes it easier to move around *within* the file.
