@@ -9,7 +9,7 @@ One of the downsides of Vim relative to a more classic editor like Atom or Subli
 You can define bookmarks to go to particular directories. For example, add this to your `~/.vimrc`:
 
 ```
-let g:vimflow_bookmarks = {"d": "~/dev", "t": "~/tmp"]
+let g:vimflow_bookmarks = {"d": "~/dev", "t": "~/tmp"}
 ```
 
 #### Splits
