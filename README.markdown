@@ -14,7 +14,7 @@ let g:vimflow_bookmarks = {"d": "~/dev", "t": "~/tmp"]
 
 #### Splits
 
-`<Leader>-` opens up a horizontal split and `<Leader>,\` opens up a vertical split. Splits will open up in the editor.
+`<Leader>-` opens up a horizontal split and `<Leader>\` opens up a vertical split. Splits will open up in the editor.
 
 
 #### Tabs
