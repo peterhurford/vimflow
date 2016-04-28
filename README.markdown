@@ -4,7 +4,7 @@ One of the downsides of Vim relative to a more classic editor like Atom or Subli
 
 #### File Explorer
 
-`<Leader>e` opens up the vim file browser.
+`<Leader>e` opens up the vim file explorer.
 
 You can define bookmarks to go to particular directories. For example, add this to your `~/.vimrc`:
 
@@ -12,10 +12,11 @@ You can define bookmarks to go to particular directories. For example, add this 
 let g:vimflow_bookmarks = {"d": "~/dev", "t": "~/tmp"}
 ```
 
+...now `<Leader>ed` will open up `~/dev/` in the file explorer and `<Leader>et` will open up `~/tmp` in the file explorer.
+
 #### Splits
 
 `<Leader>-` opens up a horizontal split and `<Leader>\` opens up a vertical split. Splits will open up in the editor.
-
 
 #### Tabs
 
